@@ -2,7 +2,7 @@
 Sou Lucas de Miranda Martins, estudante de Ciência da Computação, com maior interesse na área de desenvolvimento back-end. Busco constantemente evoluir minhas habilidades na construção de sistemas, APIs e resolução de problemas. Além da tecnologia, também tenho grande interesse pela área da saúde e pela prática de exercícios físicos, o que influencia inclusive alguns dos projetos que desenvolvo
 
 
-## 🌐 Socials:
+## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-miranda-53178b211/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirandalucas337@gmail.com) 
 
 # 💻 Tech Stack:
