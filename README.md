@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou Lucas de Miranda Martins, estudante de Ciência da Computação, com maior interesse na área de desenvolvimento back-end. Busco constantemente evoluir minhas habilidades na construção de sistemas, APIs e resolução de problemas. Além da tecnologia, também tenho grande interesse pela área da saúde e pela prática de exercícios físicos, o que influencia inclusive alguns dos projetos que desenvolvo
 
 
